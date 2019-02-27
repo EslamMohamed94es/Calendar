@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.calendar.MainActivity">
+    <item
+        android:id="@+id/today"
+        android:title="@string/today" />
+    <item
+        android:id="@+id/gote"
+        android:title="@string/goto1" />
+    <item
+        android:id="@+id/scedule"
+        android:title="@string/schedule" />
+    <item
+        android:id="@+id/weekstarts"
+        android:title="@string/weekstartsfrom" />
+</menu>

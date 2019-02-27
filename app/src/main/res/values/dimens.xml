@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="itemsheight">50dp</dimen>
+    <dimen name="itemswidth">80dp</dimen>
+</resources>
